@@ -7,7 +7,7 @@ public class MainJFrame extends javax.swing.JFrame {
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(MainJFrame.class.getName());
 
     /**
-     * Creates new form MainJFrame
+     * Creates new form MainJFrame asdasdasdasdasd
      */
     public MainJFrame() {
         initComponents();
